@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+form, .contactForm{
+	padding: 50px;
+}
+
 /* Basic */
 
 	html {
